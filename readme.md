@@ -1,6 +1,8 @@
 ## Installation   
 Just use `git clone https://github.com/YaokaiYang-assaultmaster/Python-based-RTT-hop-distance-and-geo-distance-measurer` to pull the codes to your local directory. 
 
+The python being used is `v2.7`.
+
 ## Usage
 After clone, change directory to the pulled directory. 
 
